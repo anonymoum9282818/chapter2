@@ -1,8 +1,8 @@
 # chapter2
 
-git clone
+# git clone
 https://github.com/anonymoum9282818/chapter2
 
-cd chapter2
+# cd chapter2
 
-sh bash.sh
+# sh bash.sh
