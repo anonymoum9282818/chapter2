@@ -78,7 +78,7 @@ while True:
 	nuke = qr.make("https://www.prepostseo.com/tool/br/binary-translator")
 	nuke.save("omission.png")
 	os.system("termimage /data/data/com.termux/files/home/chapter2/omission.png")
-	os.system("play-audio /data/data/com.termux/files/home/chapter2/.haveyousee.mp3")
+	os.system("play-audio /data/data/com.termux/files/home/chapter2/haveyousee.mp3")
 	crate = qr.make("https://www.invertexto.com/texto-criptografado")
 	crate.save("encrypt.png")
 	os.system("termimage /data/data/com.termux/files/home/chapter2/encrypt.png")
