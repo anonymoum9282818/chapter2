@@ -83,7 +83,7 @@ while True:
 	crate.save("encrypt.png")
 	os.system("termimage /data/data/com.termux/files/home/chapter2/encrypt.png")
 	time.sleep(1)
-	print("\033[5;49;92m Zv3iYj8Vl6ZmNrtAqr_OhoRE_N__DbEBB7zsu-y_dDzOM02zQyRK9jlDrRwjyWL6G1OyWksOSY3RvXuiXmEmOA \033[m")
+	print("\033[5;49;92m Zv3iYj8Vl6ZmNrtAqr_OhoRE_N__DbEBB7zsu-y_dDxxJzp3VU7mF0xcYgbtvHz1 \033[m")
 	print("")
 	input()
 	##       																										auG#t5veztJeM^onk#rL!r5MAYjKw6tqhkGB@khPwxULSU@D4Tz58WtX@!HSj7UigQ@MgCg3TaE6Fy4484
